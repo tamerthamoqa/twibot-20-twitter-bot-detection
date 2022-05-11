@@ -5,6 +5,7 @@ Code repository for detecting Twitter bots using the TwiBot-20 [[1](#references)
 
 
 Reference from [[1](#references)]:
+
 ![dataset-details](misc/twibot-20-paper-table1.png "Twibot-20 dataset details")
 
 
